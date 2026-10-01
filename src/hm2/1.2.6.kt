@@ -1,4 +1,4 @@
-package HW2
+package hm2
 import java.util.Scanner
 
 fun main() {

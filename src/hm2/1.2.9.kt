@@ -1,4 +1,4 @@
-package HW2
+package hm2
 
 import java.math.BigInteger
 import java.util.Scanner

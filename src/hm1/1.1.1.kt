@@ -1,4 +1,4 @@
-package HW1
+package hm1
 
 fun main() {
     val name = "Mary"
