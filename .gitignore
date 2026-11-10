@@ -28,5 +28,10 @@ bin/
 ### VS Code ###
 .vscode/
 
+### Android / Gradle ###
+.gradle/
+local.properties
+**/build/
+
 ### Mac OS ###
 .DS_Store
